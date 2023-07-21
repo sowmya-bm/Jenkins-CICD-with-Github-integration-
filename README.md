@@ -1,2 +1,15 @@
-# Jenkins-CICD-with-Github-integration-
-In this project I have used jenkins to deploy a node todo app 
+
+# node-todo-cicd-jenkins
+
+
+Run the below commands:
+
+
+`sudo apt install nodejs`
+
+
+`sudo apt install npm`
+
+
+`node app.js`
+
